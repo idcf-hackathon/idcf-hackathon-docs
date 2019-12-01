@@ -1,6 +1,6 @@
 # IDCF 黑客马拉松示例项目 TailwindTraders 后台应用
 
-TailwindTraders后台应用使用了以下应用组件提供一套微服务架构的应用模型，运行在微软云Azure平台之上。
+TailwindTraders后台应用使用了以下应用组件提供一套微服务架构的应用模型，运行在微软云Azure平台之上。以下文档提供了对此示例项目代码的简要说明。
 
 ![azure resource group](images/azure-resource-group.png)
 
